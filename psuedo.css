@@ -1,0 +1,62 @@
+div{
+    border: 2px solid red;
+    margin: 20px;
+    }
+    
+    img{
+    width: 150px;
+    height: 200px;
+    margin: 10px;
+    }
+    
+    #th:hover{
+    color:white;
+    background-color: red;
+    }
+    
+    #paragraph1:hover{
+    color: white;
+    background-color: red;
+    text-transform: ;
+    }
+    
+    #paragraph2:hover{
+    color: white;
+    background-color: red;
+    text-transform: ;
+    }
+    
+    #paragraph3:hover{
+    color: white;
+    background-color: red;
+    text-transform: ;
+    }
+            
+    #image1 {
+        opacity: 0.2;
+    }
+    
+    #image2 {
+        opacity: 0.2;
+    }
+    
+    #image3 {
+        opacity: 0.2;
+    }
+    
+    
+    #image1:hover {
+        opacity: 1.0;
+    }
+    #image2:hover {
+        opacity: 1.0;
+    }
+    #image3:hover {
+        opacity: 1.0;
+    }
+    
+    #knapp :hover {
+        text-transform: uppercase;
+        background-color: rgb(255, 0, 0);
+    
+    }
